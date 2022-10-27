@@ -1,11 +1,13 @@
 #include "main.h"
 #include <stdio.h>
+#include <string.h>
 
 /**
  * main - check the code
  *
  * Return: Always 0.
  */
+
 int main(void)
 {
 	char s1[98] = "Hello ";
@@ -20,4 +22,8 @@ int main(void)
 	printf("%s", ptr);
 
 	return (0);
+}
+char *_strcat(char *dest, char *src)
+{
+ return (0);
 }
