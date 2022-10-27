@@ -1,5 +1,4 @@
 #include "main.h"
-#include "1-main.c"
 /**
  * _strncat - joins two strings with n bytes
  * @dest: copy to
